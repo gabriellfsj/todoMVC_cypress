@@ -1,0 +1,10 @@
+{
+  "name": "projeto-page-objects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Francisco",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
